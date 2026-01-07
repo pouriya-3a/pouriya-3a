@@ -21,7 +21,6 @@ Programming for me is like solving a puzzle; each component is a piece, and the 
 [![Formik & Yup](https://img.shields.io/badge/Formik%20&%20Yup-6B3FFF?style=for-the-badge&logoColor=white)](https://github.com/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/)
 [![Zustand](https://img.shields.io/badge/Zustand-111111?style=for-the-badge&logoColor=white)](https://github.com/)
-[![Context API](https://img.shields.io/badge/Context%20API-00758F?style=for-the-badge&logoColor=white)](https://github.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-003F99?style=for-the-badge&logoColor=white)](https://github.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-1A6C99?style=for-the-badge&logoColor=white)](https://github.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-276627?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/)
