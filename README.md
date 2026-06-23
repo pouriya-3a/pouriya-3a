@@ -38,5 +38,3 @@ Programming for me is like solving a puzzle; each component is a piece, and the 
 ---
 
 Same name everywhere: pouriya-3a / pouriya_3a
-
-اینو میخوام حسابی خفن ترش کنی 
